@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,go,py,linux,docker,git&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,py,html,docker,git&perline=7"/>
 </p>
 
 <p align="center">
