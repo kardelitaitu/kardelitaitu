@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,js,ts,py,html,docker,git&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,py,html,docker,tauri&perline=7"/>
 </p>
 
 <p align="center">
