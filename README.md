@@ -1,8 +1,15 @@
-<h3 align="center">Rust Performance Engineer | High-Throughput Systems & Optimization Specialist</h3>
+![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 <p align="center">
   Focused on building fast, efficient, and scalable systems in Rust. Passionate about profiling, benchmarking, and squeezing maximum performance out of hardware.
 </p>
+
+
 
 ---
 
@@ -51,6 +58,8 @@ Currently open to:
 ### 📫 Get in Touch
 - GitHub Issues / Discussions (preferred for technical topics)
 - Email: [adikaradwiatmaja@gmail.com]
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/adikara55?style=social)](https://x.com/adikara55)
 
 ---
 
