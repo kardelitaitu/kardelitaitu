@@ -53,7 +53,3 @@ Currently open to:
 
 - GitHub Issues / Discussions (preferred for technical topics)
 - Email: [adikaradwiatmaja@gmail.com]
-
----
-
-*Last updated: June 2026*
