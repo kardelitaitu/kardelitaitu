@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm [Your Name]</h1>
-
 <h3 align="center">Rust Performance Engineer | High-Throughput Systems & Optimization Specialist</h3>
 
 <p align="center">
@@ -52,7 +50,7 @@ Currently open to:
 
 ### 📫 Get in Touch
 - GitHub Issues / Discussions (preferred for technical topics)
-- Email: [your.email@example.com]
+- Email: [adikaradwiatmaja@gmail.com]
 
 ---
 
