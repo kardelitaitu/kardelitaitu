@@ -52,4 +52,7 @@ Currently open to:
 <img src="https://img.shields.io/badge/Get_in_Touch-white?style=for-the-badge&logoWidth=1"/>  
 
 - GitHub Issues / Discussions (preferred for technical topics)
-- Email: [adikaradwiatmaja@gmail.com]
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp)](https://api.whatsapp.com/send/?phone=628115222544)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram)](https://t.me/adikara55)
+- [![Signal](https://img.shields.io/badge/Signal-3742fa?style=social&logo=signal)](https://signal.me/#p/adikaradwiatmaja)
+- [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=social&logo=gmail)](mailto:adikaradwiatmaja@gmail.com)
