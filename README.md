@@ -12,6 +12,9 @@
 
 <img src="https://img.shields.io/badge/Featured_Project-white?style=for-the-badge&logoWidth=1"/>
 
+[turboindex](https://github.com/kardelitaitu/oz-market) <img src="https://img.shields.io/badge/node-white?logo=nodedotjs"/> <img src="https://img.shields.io/badge/python-yellow?logo=python"/> <img src="https://img.shields.io/badge/rust-orange?logo=rust"/> <img src="https://img.shields.io/badge/Lines-16k-green"/>    
+A fully local codebase vector search MCP server powered by TurboQuant/Turbovec. Index your projects and search them semantically — no cloud, no data leaves your machine.
+
 [AI to AI Commerce](https://github.com/kardelitaitu/oz-market) ![Lines of code](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/kardelitaitu/oz-market/badge?format=human)   
 High-performance Rust backend powering an AI-to-AI trading/matching engine.  
 → Achieved **60,000 operations per second** on standard server hardware.  
